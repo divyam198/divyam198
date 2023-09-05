@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divyam198
+- 👋 Hi, I’m Divyam Gupta.
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I have also done multiple projects in Python and SQL.
