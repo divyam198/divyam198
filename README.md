@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyam Gupta.
 - 👀 I’m interested in Data Engineering.
-- 🌱 I’m currently learning Python, SQL, PySpark, AWS and Databricks.
+- 🌱 I’m currently learning Python, SQL, PySpark, AWS, Databricks and Snowflake.
 - 💞️ I have also done multiple projects in Python, SQL and Data Engineering.
 - 📫 I have Internship experience in the field of Data Analytics.
 
